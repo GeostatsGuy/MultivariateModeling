@@ -1,4 +1,4 @@
-#i Multivariate, Spatial Modeling
+# Multivariate, Spatial Modeling
 
 Short course on multivariate, spatial modeling formatted with lectures, and hands-on demos for 1-day or 2 day formats.
 
