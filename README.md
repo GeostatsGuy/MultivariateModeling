@@ -1,6 +1,6 @@
-# MultivariateModeling
+#i Multivariate, Spatial Modeling
 
-Short course on multivariate, spaital modeling.
+Short course on multivariate, spatial modeling formatted with lectures, and hands-on demos for 1-day or 2 day formats.
 
 #### Course Objectives:
 
@@ -29,22 +29,6 @@ With over 17 years of experience in subsurface consulting, research and developm
 For more about Michael check out these links:
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
-
-#### Join Us
-
-Come and join us as we learn more about subsurface data analytics, modeling and statistical / machine learning. 
-
-* **The Lectures**: During the term I will record the lectures and place them on YouTube.
-
-* **The Project**: There is a dataset for you to work with, or use your own.
-
-* **Updates**: check out our project updates as we work through this term-long subsurface modeling project.
-
-* **Opensource**: work in Jupyter Notebook with workflow development in Python.
-
-* **GeostatsPy**: GSLIB++ functionality in Python for great, efficient experiential learning.
-
-* **Professional Communicaton**: class is conducted like a subsurface asset team with myself as the subsurface asset team lead. Practice professional communication, oral and written reporting.
 
 #### Want to Work Together?
 
