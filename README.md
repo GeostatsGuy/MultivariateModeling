@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
+
 # Multivariate, Spatial Modeling
 
 Short course on multivariate, spatial modeling formatted with lectures, and hands-on demos for 1-day or 2 day formats.
